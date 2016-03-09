@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:ed8e032a-e27e-47c0-87cd-b313d4bcd67d'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-09T22:10:23.196Z'
+dateModified: '2016-03-09T22:08:42.752Z'
 author: []
-datePublished: '2016-03-08T20:02:20.315Z'
-publisher:
-  domain: ''
-  name: ''
 title: Prelude to Danse
-dateModified: '2016-03-08T20:01:59.779Z'
 sourcePath: _posts/2016-03-08-prelude-to-danse.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: prelude-to-danse/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
