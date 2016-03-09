@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T22:10:23.196Z'
-dateModified: '2016-03-09T22:08:42.752Z'
+datePublished: '2016-03-09T22:35:22.081Z'
+dateModified: '2016-03-09T22:35:21.746Z'
 author: []
 title: Prelude to Danse
 sourcePath: _posts/2016-03-08-prelude-to-danse.md
