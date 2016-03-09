@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Musicien II Hizq]]></title>
         <description><![CDATA[Musicien II Hizq]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/musicien-ii-hizq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 20:02:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 01:20:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/musicien-ii-hizq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Self-Choreography-Elle Goulding: Halycon]]></title>
+            <description><![CDATA[<article><h1>Self-Choreography-Elle Goulding: Halycon</h1><p>Here we goo!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7914a970686d0b46a0102ffa2b601377f9565634.jpg"></article>]]></description>
+            <link>https://vimeo.com/158265390</link>
+            <guid isPermaLink="false">441bb622-5a6c-4a7b-bb9d-b4f5cc1d6601</guid>
+            <pubDate>Wed, 09 Mar 2016 01:19:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prelude to Danse]]></title>
             <description><![CDATA[<h1>Prelude to Danse</h1>]]></description>
-            <link>undefinedprelude-to-danse/index.html</link>
+            <link>https://thegrid.ai/musicien-ii-hizq/prelude-to-danse/index.html</link>
             <guid isPermaLink="false">733efd9f-50a6-4999-b1f4-cdcff699890f</guid>
             <pubDate>Tue, 08 Mar 2016 20:02:20 GMT</pubDate>
         </item>
