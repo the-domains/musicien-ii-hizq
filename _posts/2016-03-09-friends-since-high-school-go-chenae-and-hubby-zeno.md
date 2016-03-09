@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCvt--bwhup/'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-09T22:08:13.945Z'
+dateModified: '2016-03-09T22:07:52.108Z'
 author:
   - name: weare_chezee
     url: 'https://www.instagram.com/weare_chezee'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1202381865269468073'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCvt--bwhup/'
 title: Friends since High School. Go Chenae and hubby Zeno
-datePublished: '2016-03-09T20:41:46.115Z'
-dateModified: '2016-03-09T20:40:38.297Z'
 sourcePath: _posts/2016-03-09-friends-since-high-school-go-chenae-and-hubby-zeno.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: MediaObject
 _context: 'http://schema.org'
 
