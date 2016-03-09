@@ -1,8 +1,7 @@
 name: Musicien II Hizq
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.1021505
+typography_spectrum: 0.7311828
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-color:
-  saturation: 0.1756272
-  brandStrength: 1
-  rhythmicContrast: 0.6075269
-  brandColors:
-    - '#060606'
-    - '#FFFFFF'
-    - '#125687'
-    - '#A5A6AA'
-    - '#CE222F'
-  lightness: 0.3817204
-typography_spectrum: 0.7311828
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 0.1021505
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#060608'
+    - '#48525d'
+    - '#687480'
+    - '#1f2732'
+    - '#b5c5d2'
+  brandStrength: 0.375
+  lightness: 0.75
+  saturation: 0
+  rhythmicContrast: 0.75
+purpose: []
