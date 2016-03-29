@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 0.25
-  brandStrength: 0.6875
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#060608'
-    - '#48525d'
-    - '#687480'
-    - '#1f2732'
-    - '#b5c5d2'
+  brandStrength: 0.9367622
   lightness: 0.5625
+  brandColors:
+    - '#FFFFFF'
+    - '#125688'
+    - '#25272A'
+    - '#A2B2B5'
+    - '#FAD1BC'
+  rhythmicContrast: 0.75
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Musicien II Hizq
 favicon: null
+name: Musicien II Hizq
 opengraph:
   image: null
   type: null
