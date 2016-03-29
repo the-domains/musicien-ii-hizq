@@ -1,41 +1,41 @@
-name: Musicien II Hizq
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.7311828
+title: Musicien II Hizq
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Musicien II Hizq
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.25
+  brandStrength: 0.6875
+  rhythmicContrast: 0.75
   brandColors:
     - '#060608'
     - '#48525d'
     - '#687480'
     - '#1f2732'
     - '#b5c5d2'
-  brandStrength: 0.6875
   lightness: 0.5625
-  saturation: 0.25
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Musicien II Hizq
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7311828
+layout_spectrum: 0.2959528
