@@ -1,32 +1,11 @@
-name: Musicien II Hizq
-favicon: null
+name: Auteur II Hizq
 layout_spectrum: 0.4367622
 typography_spectrum: 0.7311828
-title: Musicien II Hizq
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#FFFFFF'
@@ -38,4 +17,19 @@ color:
   lightness: 0.4375
   saturation: 0.5
   rhythmicContrast: 0.75
-purpose: []
+purpose:
+  - type: contact
+    label: Mail Me
+    url: 'mailto:musicienIIhizq@protonmail.ch'
+  - type: contact
+    label: Drop a Line
+    url: 'tel:4435293963'
+title: Verse
+description: Instruments. Lyrics. Vocals.
+author:
+  name: HizqiyahY
+  email: musicienhizq@protonmail.ch
+content_rating:
+  adult: false
+content: []
+github: true
